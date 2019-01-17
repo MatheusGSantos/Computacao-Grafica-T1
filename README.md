@@ -1,1 +1,1 @@
-# Computa-o-Gr-fica-T1
+# Computação-Gráfica-T1
