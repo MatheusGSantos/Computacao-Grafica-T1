@@ -1,5 +1,7 @@
 #                                           Computação-Gráfica-T1
 
+*link trabalho 2(pipeline): https://github.com/MatheusGSantos/Computacao_Grafica-T2
+
 # Objetivo
 Com o uso da linguagem C/C++ e OpenGL, rasterizar um triângulo, dados seus vértices, interpolando as cores dos vértices para formar a cor das arestas.
 
